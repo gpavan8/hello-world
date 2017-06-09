@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+
+I am Pavan Kumar
+This is my first repository
